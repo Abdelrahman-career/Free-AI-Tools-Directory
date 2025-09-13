@@ -1,15 +1,42 @@
 #!/bin/bash
+
+# A simple script to check the status of URLs listed in a file.
+# It outputs a CSV report with the URL, HTTP status code, and response time.
+
 INPUT="tools_urls.txt"
 OUTPUT="links_report.csv"
-echo "url,status_code,ok,response_time_ms" > $OUTPUT
-while read -r url; do
-  start=$(date +%s%3N)
-  http_code=$(curl -o /dev/null -s -w "%{http_code}" -L --max-time 15 "$url")
-  end=$(date +%s%3N)
-  ms=$((end-start))
-  ok="false"
-  if [[ "$http_code" -ge 200 && "$http_code" -lt 400 ]]; then
-    ok="true"
+
+# Create the CSV header
+echo "url,status_code,ok,response_time_ms" > "$OUTPUT"
+
+# Read each URL from the input file and check its status
+while IFS= read -r url; do
+  # Get the start time in milliseconds
+  start_time=$(date +%s%3N)
+
+  # Use curl to get the HTTP status code.
+  # -L follows redirects.
+  # -s is for silent mode.
+  # -o /dev/null discards the body.
+  # -w "%{http_code}" outputs only the status code.
+  # --max-time 15 sets a timeout of 15 seconds.
+  status_code=$(curl -o /dev/null -s -w "%{http_code}" -L --max-time 15 "$url")
+
+  # Get the end time in milliseconds
+  end_time=$(date +%s%3N)
+
+  # Calculate the response time
+  response_time=$((end_time - start_time))
+
+  # Check if the status code is a success (2xx or 3xx)
+  is_ok="false"
+  if [[ "$status_code" -ge 200 && "$status_code" -lt 400 ]]; then
+    is_ok="true"
   fi
-  echo "\"$url\",\"$http_code\",\"$ok\",\"$ms\"" >> $OUTPUT
+
+  # Append the result to the CSV report
+  echo "\"$url\",\"$status_code\",\"$is_ok\",\"$response_time\"" >> "$OUTPUT"
+
 done < "$INPUT"
+
+echo "Link check complete. Report saved to $OUTPUT"
