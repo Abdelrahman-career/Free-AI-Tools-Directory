@@ -1,0 +1,22 @@
+name: Weekly Link Check
+
+on:
+  schedule:
+    - cron: '0 3 * * 1' # Runs every Monday at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run link check script
+        run: bash link_check.sh
+
+      - name: Upload report as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-links-report
+          path: links_report.csv
