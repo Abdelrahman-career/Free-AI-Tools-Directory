@@ -21,7 +21,7 @@ jobs:
 
       # Step 2: Run the link check script that we created earlier
       - name: Run link check script
-  run: bash scripts/link_check.sh
+        run: bash scripts/link_check.sh
 
       # Step 3: Upload the generated report as an artifact
       # You will be able to download this report from the Actions tab after the run is complete.
