@@ -35,14 +35,16 @@ Welcome to the comprehensive, open-source directory of the best free and freemiu
 
 ### 🧠 Strategic Analysis & Recommendations
 
-Want a deeper dive? We've analyzed the entire dataset to bring you strategic insights and tool comparisons.
+Want a deeper dive? We've analyzed the entire dataset to bring you strategic insights, guides, and tool comparisons.
 
+-   ➡️ **[How to Choose the Right AI Tool](./docs/how-to-choose.md)** *(Start here if you're new!)*
 -   ➡️ **[Best in Class by Category](./docs/best_in_class.md)**
 -   ➡️ **[Tool Showdowns: Which is Right for You?](./docs/tool_showdowns.md)**
 -   ➡️ **[Foundation Model Showdown: A Deep Dive](./docs/model_comparison.md)**
 
----
+You can also check out our official **[Project Roadmap](./ROADMAP.md)** to see what's next.
 
+---
 
 ### 🎨 Content Creation
 | Tool | Primary Use Case | Core Tech | Free Tier Summary | Open Source | Tags |
