@@ -1,153 +1,153 @@
-Category,Tool Name,Direct URL,Core AI Technology,Primary Use Case,Pricing Model,Free Quota Summary,Open Source,Tags
-Content Creation,ChatGPT,https://chat.openai.com/,"LLM, Diffusion Models",Text generation assistance and image generation.,Freemium,Daily usage limits on GPT-3.5,No,"LLM,Image,Writing"
-Content Creation,DeepL,https://www.deepl.com/,"NLP, Translation",High-quality text and document translation.,Freemium,Limited character & file translations,No,"Translation,Writing"
-Content Creation,Ideogram,https://ideogram.ai/,"Diffusion Models",Generates images with coherent text typography.,Freemium,~25 images per day,No,"Image,Typography"
-Content Creation,Adobe Firefly,https://www.adobe.com/sensei/generative-ai/firefly.html,"Diffusion Models",Generative AI for creative image and text effects.,Freemium,25 generative credits per month,No,"Image,Design"
-Content Creation,HIX.AI,https://hix.ai/,"LLM, RAG, NLP",AI writer for articles ad copy and emails with SEO templates.,Freemium,3000 words per week,No,"Writing,SEO,Image"
-Content Creation,Copy.ai,https://www.copy.ai/,"LLM, NLP",Generates marketing copy and content ideas.,Freemium,2000 words per month,No,"Writing,Marketing"
-Content Creation,Rytr,https://rytr.me/,"LLM (GPT-3)",AI writing assistant for short-form content.,Freemium,10,000 characters per month,No,"Writing,Paraphrasing"
-Content Creation,Writesonic,https://writesonic.com/,"LLM, RAG",AI writer copywriter and paraphrasing tool.,Freemium,10,000 words per month,No,"Writing,SEO,Image"
-Content Creation,Descript,https://www.descript.com/,"Speech-to-Text, TTS",Edit audio and video by editing the text transcript.,Freemium,1 hour of transcription per month,No,"Video,Audio,Editing"
-Content Creation,Pictory,https://pictory.ai/,"Computer Vision, NLP",Creates videos from scripts or articles automatically.,Freemium,3 videos (with watermark),No,"Video,Text-to-Video"
-Content Creation,QuillBot,https://quillbot.com/,"NLP, LLM",Paraphrasing summarizing and grammar checking tool.,Freemium,125 words in paraphraser,No,"Writing,Paraphrasing"
-Content Creation,Notion AI,https://www.notion.so/product/ai,"LLM, RAG",AI assistant integrated within the Notion productivity app.,Freemium,Limited number of AI responses,No,"Productivity,Writing"
-Content Creation,ClickUp AI,https://clickup.com/ai,"LLM, NLP, RAG",AI assistant for project management summaries and content.,Freemium,100 uses,No,"Productivity,Writing"
-Content Creation,Araby.ai,https://www.araby.ai/,"LLM, TTS, CV, NLP",Comprehensive Arabic platform for writing images and video.,Freemium,Limited free plan,No,"Writing,Arabic,SEO"
-Content Creation,HeyGen,https://www.heygen.com/,"Generative Avatars",Creates videos with realistic AI avatars from text.,Freemium,1 free minute of video,No,"Video,Avatar"
-Content Creation,Kapwing,https://www.kapwing.com/,"Computer Vision, NLP",Online video editor with AI-powered tools.,Freemium,Exports with watermark,No,"Video,Editing"
-Content Creation,Lex.page,https://lex.page/,"LLM",Simple intelligent text editor for writers.,Freemium,Basic free plan,No,"Writing,AI-Writer"
-Content Creation,Looka,https://looka.com/,"Generative AI",Designs logos and full brand identities.,Freemium,Free to design (paid to download),No,"Design,Logo"
-Content Creation,Phind,https://www.phind.com/,"RAG, LLM",AI search engine for developers.,Freemium,Basic free plan,No,"Code,Search"
-Content Creation,Snyk,https://snyk.io/,"ML, Code Analysis",Scans code for security vulnerabilities.,Freemium,Free plan for individuals & open source,No,"Security,Code"
-Education,Course Hero,https://www.coursehero.com/,"LLM, RAG",Homework help and study resources.,Freemium,Unlock content via contributions,No,"Study,RAG"
-Education,Gradescope,https://www.gradescope.com/,"ML, OCR",Automated grading for exams and assignments.,Freemium,Free for individuals & instructors,No,"Grading,OCR"
-Education,TurboLearn,https://www.turbolean.ai/,"LLM",Creates summaries & flashcards from lectures.,Freemium,Basic free plan,No,"Summarizer,Study"
-Education,Socratic by Google,https://socratic.org/,"LLM, NLP, OCR",Homework helper that explains concepts via photos.,Free,Completely Free,No,"Homework,OCR,Math"
-Education,MathGPTPro,https://www.mathgptpro.com/,"LLM, OCR",Instant math problem solver with step-by-step explanations.,Free,Completely Free,No,"Math,Solver,OCR"
-Education,Read Along by Google,https://readalong.google.com/,"Speech-to-Text",Helps children learn to read aloud with real-time feedback.,Free,Completely Free,No,"Reading,Kids,STT"
-Education,Grammarly,https://www.grammarly.com/,"NLP",Writing assistant for grammar and style.,Freemium,Powerful free plan for basics,No,"Writing,Grammar"
-Education,Quizlet,https://quizlet.com/,"ML, LLM",Study tools and flashcards with AI assistance.,Freemium,Most creation tools are free,No,"Study,Flashcards"
-Education,Elicit.org,https://elicit.org/,"LLM, RAG",AI research assistant for academic papers.,Freemium,One-time free credits,No,"Research,RAG,Academic"
-Education,Scispace,https://typeset.io/,"LLM, RAG",Platform for reading and understanding research papers.,Freemium,Basic free plan,No,"Research,PDF,Academic"
-Education,Cognii,https://www.cognii.com/,"NLP, LLM",Assesses open-ended student answers to improve writing.,Freemium,Free individual services,No,"Writing,Assessment"
-Education,Century Tech,https://www.century.tech/,"LLM, ML",Adaptive learning platform with personalized paths.,Freemium,Extensive free resources,No,"Adaptive Learning,Education"
-Education,Carnegie Learning,https://www.carnegielearning.com/,"AI Tutoring, ML",AI tutoring with a focus on math and computer science.,Freemium,Free versions for students/teachers,No,"Math,Tutoring"
-Education,TTSMaker,https://ttsmaker.com/,"Text-to-Speech",Converts written text into high-quality audio.,Free,Completely Free,No,"TTS,Audio"
-Education,Wolfram Alpha,https://www.wolframalpha.com/,"Computational Intelligence",Computational engine for math and science questions.,Freemium,Basic free plan (answers only),No,"Math,Science,Computation"
-Education,Zotero,https://www.zotero.org/,"NLP, ML",Manages and cites academic references automatically.,Free,Completely Free,Yes,"Research,Citation,Open Source"
-Education,Semantic Scholar,https://www.semanticscholar.org/,"NLP, RAG",AI-powered search engine for scientific literature.,Free,Completely Free,No,"Research,Academic"
-Education,Google Dataset Search,https://datasetsearch.research.google.com/,"Search",Search engine for datasets hosted across the web.,Free,Completely Free,No,"Data,Research"
-Image & Video,RunwayML,https://runwayml.com/,"Diffusion Models, CV",AI video editing generation and image-to-video.,Freemium,125 credits (one-time),No,"Video,Image,Gen-AI"
-Image & Video,Luma AI (Dream Machine),https://lumalabs.ai/dream-machine,"Diffusion Models, CV",High-quality cinematic video generation from text/images.,Freemium,30 free videos per month,No,"Video,Gen-AI,3D"
-Image & Video,Pika Labs,https://pika.art/,"Diffusion Models, GAN",Generates short video clips from text or images.,Freemium,Initial free credits,No,"Video,Gen-AI"
-Image & Video,Stable Video Diffusion,https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt,"Diffusion Models",Generates short video clips from a source image.,Free,Completely Free,Yes,"Video,Gen-AI,Open Source"
-Image & Video,Maestra,https://maestra.ai/ar/video-translator,"TTS, ASR, NLP",Automatically translates and dubs videos into 125+ languages.,Freemium,15 minutes of free transcription,No,"Video,Translation,Dubbing"
-Image & Video,Zeemo AI,https://zeemo.ai/ar/tools/video-translator,"ASR, NLP, CV",Transcribes and translates videos with editable subtitles.,Freemium,5 free minutes per month,No,"Video,Subtitles,Translation"
-Image & Video,NoteGPT,https://notegpt.io/youtube-video-summarizer,"LLM, ASR",Summarizes long YouTube videos without registration.,Free,Completely Free,No,"Video,Summarizer,YouTube"
-Image & Video,Remove.bg,https://www.remove.bg/,"Computer Vision",Automatically removes backgrounds from images.,Freemium,1 free HD download 50 previews/month,No,"Image,Editing,Background Removal"
-Image & Video,Krea.ai,https://www.krea.ai/,"Diffusion Models",Real-time interactive image generation and enhancement.,Freemium,Limited daily usage,No,"Image,Real-time,Gen-AI"
-Image & Video,Playground AI,https://playground.com/,"Diffusion Models",User-friendly platform for generating images with Stable Diffusion.,Freemium,500 free images per day,No,"Image,Gen-AI"
-Image & Video,Vidnoz AI,https://www.vidnoz.com/ai-photo-analyzer.html,"CV, LLM",Analyzes images and describes their content.,Free,Completely Free,No,"Image,Analysis"
-Image & Video,ScreenApp,https://screenapp.io/,"CV, NLP, LLM, ASR",Screen recorder that automatically transcribes and summarizes videos.,Freemium,10 free videos,No,"Video,Summarizer,Screen Recorder"
-Image & Video,AKOOL,https://akool.com/ar/ai-tools/ai-video-translator,"LLM, TTS, CV",Translates videos dubs audio and performs face swapping.,Freemium,50 free credits,No,"Video,Translation,Face Swap"
-Image & Video,Decopy,https://decopy.ai/youtube-video-summarizer/,"LLM, CV, ASR",Extracts summaries key points and mind maps from YouTube.,Free,Completely Free,No,"Video,Summarizer,YouTube"
-Image & Video,DALL-E 3,https://openai.com/dall-e-3,"Diffusion Models, LLM",Image generation from text integrated with Bing.,Freemium,15 credits via Bing Image Creator,No,"Image,Gen-AI"
-Image & Video,Midjourney,https://www.midjourney.com/,"GANs, Diffusion Models",High-quality artistic image generation via Discord.,Freemium,Very limited free trial,No,"Image,Gen-AI,Art"
-Image & Video,Artbreeder,https://www.artbreeder.com/,"GANs, Deep Learning",Blends images to create new unique artwork and characters.,Freemium,10 credits per month,No,"Image,Art,GAN"
-Image & Video,Canva AI,https://www.canva.com/features/ai-image-generator/,"Diffusion Models, LLM",AI image and design generation within the Canva platform.,Freemium,50 lifetime credits,No,"Image,Design"
-Image & Video,PhotoRoom,https://www.photoroom.com/,"Computer Vision",Edits product and portrait photos removes backgrounds.,Freemium,Exports with watermark,No,"Image,Editing"
-Image & Video,Luma AI (Genie),https://lumalabs.ai/genie,"Text-to-3D Models",Generates 3D models from text prompts.,Freemium,10 free generations per month,No,"3D,Text-to-3D"
-Image & Video,Meshy.ai,https://www.meshy.ai/,"Text-to-3D, Image-to-3D",Converts text and 2D images into 3D assets.,Freemium,100 free credits per month,No,"3D,Text-to-3D"
-Automation & Integration,n8n,https://n8n.io/,"Workflow Automation",Connects apps and automates complex workflows.,Freemium,2500 executions/month (Cloud),Yes,"Automation,Workflow,Open Source"
-Automation & Integration,ChatNode,https://chatnode.ai/,"LLM, RAG",Builds AI chatbots trained on your own data (e.g., Notion).,Freemium,20 messages per month,No,"Chatbot,RAG,Notion"
-Automation & Integration,Zapier,https://zapier.com/,"Workflow Automation",Connects over 5,000 apps to automate repetitive tasks.,Freemium,100 tasks per month,No,"Automation,Workflow"
-Automation & Integration,Make,https://make.com/,"Visual Automation",Visual workflow automation to connect apps and services.,Freemium,1,000 operations per month,No,"Automation,Workflow,Visual"
-Automation & Integration,Roboflow,https://roboflow.com/,"Computer Vision, MLOps",Platform to build and deploy computer vision models.,Freemium,1,000 free source images,No,"Computer Vision,MLOps"
-Automation & Integration,UiPath,https://www.uipath.com/,"RPA",Robotic Process Automation (RPA) for enterprise tasks.,Freemium,Free Community Edition,No,"RPA,Automation"
-Automation & Integration,Workativ,https://workativ.com/,"AI Chatbots, RPA",Builds and automates AI chatbots for workplace support.,Freemium,2 bots / 100 conversations/month,No,"Chatbot,Automation"
-Automation & Integration,Lumeo,https://lumeo.com/,"Computer Vision",No-code platform for video and vision AI analytics.,Freemium,Free "Starter" plan,No,"Computer Vision,Video Analytics"
-Automation & Integration,H2O.ai,https://h2o.ai/,"Machine Learning, AutoML",Open-source platform for enterprise machine learning.,Free,Completely Free,Yes,"AutoML,ML,Open Source"
-Automation & Integration,LlamaIndex,https://www.llamaindex.ai/,"RAG, LLM Toolkits",Framework for connecting LLMs with your private data.,Free,Library is free,Yes,"RAG,LLM,Framework,Open Source"
-Automation & Integration,LangChain,https://www.langchain.com/,"LLM Orchestration, RAG",Framework for developing applications powered by LLMs.,Free,Library is free,Yes,"RAG,LLM,Framework,Open Source"
-Mental Health Support,Woebot,https://woebothealth.com/,"NLP, LLM, CBT",CBT-based mental health chatbot.,Freemium,Basic usage is free,No,"Chatbot,CBT,Mental Health"
-Mental Health Support,Zafu AI,https://zafu.ai/,"LLM",Meditative and calming dialogue chatbot.,Free,Completely Free,No,"Chatbot,Meditation"
-Mental Health Support,Abby,https://abby.gg/ar,"LLM, NLP, ML",Personalized emotional support and CBT exercises.,Freemium,Powerful free plan,No,"Chatbot,CBT,Multilingual"
-Mental Health Support,Character.AI,https://character.ai/,"LLM",Chat with AI characters for role-playing and support.,Freemium,Basic usage is free,No,"Chatbot,Role-playing"
-Mental Health Support,Poe by Quora,https://poe.com/,"Multi-LLM Chat",Chat with multiple AIs (ChatGPT, Claude) in one app.,Freemium,Limited daily usage,No,"Chatbot,Multi-LLM"
-Mental Health Support,Replika,https://replika.ai/,"LLM, NLP, ML",AI companion chatbot for emotional support.,Freemium,Basic usage is free,No,"Chatbot,Companion"
-Mental Health Support,AI Therapist Free,https://aitherapy.care/,"LLM",Quick emotional support chatbot.,Free,Completely Free,Yes,"Chatbot,Open Source"
-Mental Health Support,Platform Therapy AI,https://ai-therapy.org/,"LLM",Guided therapy sessions with smart questions.,Freemium,Basic assessments are free,No,"CBT,Guided Therapy"
-Mental Health Support,PsyHelp AI,https://psyhelp.ai/,"LLM, RAG, NLP",Analytical psychological support and mood tracking.,Freemium,Basic free plan,No,"Analysis,Mood Tracking"
-Mental Health Support,Huggy AI,https://huggy.io/,"NLP, LLM",Friendly emotional support chat to promote positive thinking.,Freemium,Basic free plan,No,"Chatbot,Positive Thinking"
-Mental Health Support,Mindheal AI GPT,https://yechat.ai/ar/gpts-2otOJRtsNk-Mindheal,"LLM, RAG",In-depth psychological and neuroscientific education.,Free,Free (with usage limits),No,"Research,Academic"
-Mental Health Support,AI PSY HELP,https://chat.psyhelp.info/,"LLM, RAG",Real-time psychological support sessions and mood analysis.,Freemium,Limited free usage,No,"Mood Analysis,Testing"
-Computing & Info,GitHub Copilot,https://github.com/features/copilot,"LLM (Codex)",AI pair programmer that suggests code in your IDE.,Freemium,Free for students & OSS maintainers,No,"Code,IDE,Assistant"
-Computing & Info,Replit,https://replit.com/,"LLM, NLP",Cloud-based IDE for coding hosting and building apps.,Freemium,Basic free plan,No,"Code,Cloud IDE,Hosting"
-Computing & Info,Cursor AI,https://www.cursor.so/,"LLM (GPT-4/Claude)",AI-native code editor for large projects.,Freemium,Basic free plan,No,"Code,IDE,AI-Native"
-Computing & Info,Codeium,https://codeium.com/,"LLM",Free AI code completion and chat assistant.,Free,Completely Free for individuals,No,"Code,Assistant"
-Computing & Info,Tabnine,https://www.tabnine.com/,"LLM",AI assistant for code completion.,Freemium,Basic free plan,No,"Code,Assistant"
-Computing & Info,Amazon CodeWhisperer,https://aws.amazon.com/codewhisperer/,"LLM",AI coding companion that also scans for vulnerabilities.,Free,Completely Free for individual use,No,"Code,Security,Assistant"
-Computing & Info,Symbolab,https://www.symbolab.com/,"LLM, Computer Vision",Solves complex math problems with steps.,Freemium,Solutions (without detailed steps),No,"Math,Solver,Education"
-Computing & Info,Photomath,https://photomath.com/,"Computer Vision, LLM",Solves math problems using your phone's camera.,Freemium,Solutions (with basic steps),No,"Math,Solver,OCR"
-Computing & Info,Microsoft Math Solver,https://mathsolver.microsoft.com/,"LLM, Computer Vision",Solves math problems from images text or handwriting.,Free,Completely Free,No,"Math,Solver,OCR"
-Computing & Info,Desmos Calculator,https://www.desmos.com/,"Classic ML, Graphing",Advanced graphing calculator for functions and data.,Free,Completely Free,No,"Math,Graphing,Education"
-Computing & Info,VS IntelliCode,https://visualstudio.microsoft.com/services/intellicode/,"Machine Learning",AI-assisted code suggestions in Visual Studio.,Free,Completely Free,No,"Code,Assistant,IDE"
-Computing & Info,BLACKBOX AI,https://www.useblackbox.io/,"LLM",AI code generation from questions.,Freemium,Basic free plan,No,"Code,Search"
-Computing & Info,AskCodi,https://www.askcodi.com/,"LLM",AI code and query generation.,Freemium,Basic free plan,No,"Code,Generator"
-Computing & Info,Bloop AI,https://bloop.ai/,"LLM, RAG",Semantic code search for repositories.,Freemium,Basic free plan,No,"Code,Search,RAG"
-Computing & Info,Haystack,https://haystack.deepset.ai/,"RAG, LLM, NLP",Framework for building production-ready NLP systems.,Free,Completely Free,Yes,"RAG,Framework,Open Source"
-Computing & Info,Label Studio,https://labelstud.io/,"Computer Vision, ML",Data labeling platform for images text audio and video.,Free,Completely Free,Yes,"CV,Data Labeling,Open Source"
-Computing & Info,MonkeyLearn,https://monkeylearn.com/,"NLP, ML",No-code text analysis for sentiment keywords etc.,Freemium,300 queries per month,No,"NLP,Text Analysis,No-Code"
-Computing & Info,Amazon Comprehend,https://aws.amazon.com/comprehend,"NLP, ML",NLP service for text analysis and entity extraction.,Freemium,12-month free tier,No,"NLP,Text Analysis"
-Computing & Info,Auto-sklearn,https://github.com/automl/auto-sklearn,"AutoML",Automated machine learning toolkit.,Free,Completely Free,Yes,"AutoML,ML,Open Source"
-Computing & Info,TPOT,https://github.com/EpistasisLab/tpot,"AutoML",AutoML tool that optimizes ML pipelines using genetic programming.,Free,Completely Free,Yes,"AutoML,Genetic Programming,Open Source"
-Computing & Info,PyCaret,https://github.com/pycaret/pycaret,"AutoML",Low-code AutoML library in Python.,Free,Completely Free,Yes,"AutoML,Low-Code,Open Source"
-Computing & Info,AutoGluon,https://github.com/autogluon/autogluon,"Deep Learning, AutoML",AutoML for deep learning on image text and tabular data.,Free,Completely Free,Yes,"AutoML,Deep Learning,Open Source"
-Computing & Info,MLflow,https://mlflow.org/,"MLOps",Platform to manage the ML lifecycle.,Free,Completely Free,Yes,"MLOps,Tracking,Open Source"
-Engineering,ClickUp,https://clickup.com/,"NLP, ML",Project management for engineering teams.,Freemium,Free Forever plan for personal use,No,"Productivity,Project Management"
-Engineering,Guru,https://www.getguru.com/,"RAG, LLM",Centralized knowledge management for engineering docs.,Freemium,Free for teams up to 3 users,No,"Knowledge Management,RAG"
-Engineering,Otter.ai,https://otter.ai/,"Speech Recognition, NLP",Transcribes engineering meetings and lectures.,Freemium,300 transcription minutes/month,No,"Transcription,Meetings"
-Engineering,Optic,https://www.useoptic.com/,"Computer Vision, NLP",Automatically reviews and documents APIs.,Freemium,Basic free plan,No,"API,Development"
-Engineering,Eraser.io,https://eraser.io/,"LLM, Diagram Generation",AI-powered diagramming and whiteboarding for engineers.,Freemium,Basic free plan,No,"Diagrams,Whiteboard"
-Health,Ada,https://ada.com/,"LLM, NLP",Symptom assessment platform.,Freemium,Basic usage is free,No,"Symptom Checker,Health"
-Health,Abridge,https://abridge.com/,"Speech Recognition, NLP, LLM",Transcribes doctor-patient conversations into medical notes.,Freemium,Free plan for personal use,No,"Transcription,Medical,Health"
-Health,Butterfly iQ+,https://www.butterflynetwork.com/,"Computer Vision, AI-Imaging",Portable AI-powered ultrasound device.,Freemium,Basic software is free (device is paid),No,"Medical Imaging,Ultrasound,Hardware"
-Health,PathAI,https://www.pathai.com/,"Computer Vision, Deep Learning",AI-powered pathology analysis to assist in cancer detection.,Freemium,Available for research & trials,No,"Medical Imaging,Diagnostics,Pathology"
-Health,Aidoc,https://www.aidoc.com/,"Computer Vision, Deep Learning",Analyzes medical images to detect critical conditions.,Freemium,Available for limited trials,No,"Medical Imaging,Radiology,Diagnostics"
-Health,Tempus,https://www.tempus.com/,"ML, Genomic Analysis",Analyzes clinical and molecular data for personalized treatment.,Freemium,Basic analyses are free,No,"Genomics,Oncology,Precision Medicine"
-Health,Caption Health,https://www.captionhealth.com/,"Computer Vision, AI-Guidance",AI guidance for acquiring diagnostic-quality ultrasound images.,Freemium,Basic free plan,No,"Medical Imaging,Ultrasound,Guidance"
-Health,DeepMind Health,https://deepmind.google/health/,"Deep Learning, Computer Vision",Develops AI models for early disease detection.,Free,Available for research & collaboration,No,"Research,Diagnostics"
-Foundational & Tech,Google Colab,https://colab.research.google.com/,"ML, LLM APIs",Cloud-based Jupyter notebooks with free GPU/TPU access.,Freemium,Limited free GPU/TPU access,No,"Notebook,ML,GPU"
-Foundational & Tech,Hugging Face,https://huggingface.co/,"LLM, NLP, Diffusion Models",Platform for hosting and using pre-trained models.,Freemium,Free model hosting and usage,Yes,"Models,Hosting,Community,Open Source"
-Foundational & Tech,OpenAI API,https://platform.openai.com/playground,"LLM (GPT series)",Programmatic access to GPT models.,Freemium,Initial free credits,No,"API,LLM"
-Foundational & Tech,TensorFlow,https://www.tensorflow.org/,"ML, Deep Learning",Open-source framework for machine learning.,Free,Completely Free,Yes,"Framework,ML,Deep Learning,Open Source"
-Foundational & Tech,PyTorch,https://pytorch.org/,"ML, Deep Learning",Open-source framework for deep learning.,Free,Completely Free,Yes,"Framework,ML,Deep Learning,Open Source"
-Foundational & Tech,Lobe.ai,https://www.lobe.ai/,"Computer Vision",No-code image classification model training.,Free,Completely Free,No,"CV,No-Code,Image Classification"
-Foundational & Tech,Gradio,https://www.gradio.app/,"UI Builder for AI",Python library to build web demos for ML models.,Free,Completely Free,Yes,"UI,Demo,Open Source"
-Foundational & Tech,ElevenLabs,https://elevenlabs.io/,"Text-to-Speech (TTS)",Ultra-realistic text-to-speech and voice cloning.,Freemium,10,000 characters per month,No,"TTS,Voice Cloning,Audio"
-Religious,Moslem Bot,https://moslembot.com/,"LLM, NLP, RAG",AI search tools for Quran and Hadith.,Freemium,Basic free plan,No,"Chatbot,Islamic,Quran,Hadith"
-Religious,Deen.ai,https://deen.ai/,"RAG, LLM, Speech Recognition",AI feedback on Quran recitation and answers to Islamic questions.,Freemium,Basic free plan,No,"Recitation,Quran,Fatwa"
-Religious,KajiBuku,https://moslembot.com/,"RAG, LLM",Chat with Islamic books or your own uploaded PDFs.,Free,Completely Free,No,"Chatbot,PDF,Islamic"
-Religious,KajiWeb,https://moslembot.com/,"NLP, RAG",Analyzes and summarizes Islamic websites.,Free,Completely Free,No,"Summarizer,Web,Islamic"
-Audio & Music,Suno AI,https://www.suno.ai/,"Music Generation",Generates full songs (lyrics music vocals) from text.,Freemium,50 free credits per day,No,"Music,Generative,Song"
-Audio & Music,Udio,https://www.udio.com/,"Music Generation",Generates high-quality music tracks and songs.,Freemium,1200 songs/month (beta),No,"Music,Generative,Song"
-Audio & Music,Mubert,https://mubert.com/,"Generative Music AI",Generates royalty-free soundtracks for videos and podcasts.,Freemium,Generation with audio watermark,No,"Music,Royalty-Free,Soundtrack"
-Audio & Music,Natural Readers,https://www.naturalreaders.com/,"Text-to-Speech",Converts text into high-quality audio.,Freemium,20 mins/day (premium voices),No,"TTS,Audio"
-Presentations & Diagrams,Gamma.app,https://gamma.app/,"LLM, Generative AI",Creates presentations and documents from a single text prompt.,Freemium,400 initial credits,No,"Presentation,Gen-AI,Docs"
-Presentations & Diagrams,Tome,https://tome.app/,"LLM, DALL-E",Creates interactive presentations and visual stories.,Freemium,Basic free plan,No,"Presentation,Storytelling"
-Presentations & Diagrams,Eraser.io,https://eraser.io/,"LLM, Diagram Generation",Generates engineering diagrams and flowcharts from text.,Freemium,Basic free plan,No,"Diagrams,Whiteboard,Engineering"
-Presentations & Diagrams,Figma,https://www.figma.com/,"Various (Plugins)",Collaborative design tool with various AI plugins.,Freemium,Free starter plan,No,"Design,UI/UX,Plugins"
-Specialized Dev Tools,Ollama,https://ollama.com/,"LLM Runner",Easily run large language models locally on your machine.,Free,Completely Free,Yes,"LLM,Local,CLI,Open Source"
-Specialized Dev Tools,Jan.ai,https://jan.ai/,"Local AI Client",Desktop client to run and manage local AI models.,Free,Completely Free,Yes,"LLM,Local,Desktop,Open Source"
-Specialized Dev Tools,CodeRabbit,https://coderabbit.ai/,"LLM for Code Review",Automated code review on your GitHub pull requests.,Freemium,Free for open source & individuals,No,"Code Review,Automation"
-Specialized Dev Tools,Civitai,https://civitai.com/,"Diffusion Model Hub",Hub for sharing and discovering fine-tuned Stable Diffusion models.,Free,Completely Free,No,"Models,Community,Stable Diffusion"
-Specialized Dev Tools,Replicate,https://replicate.com/,"Model Hosting",Run open-source AI models via a simple API.,Freemium,Free initial credits for trial,No,"API,Hosting,Models"
-Specialized Dev Tools,Perplexity Labs,https://labs.perplexity.ai/,"LLM Playground",Playground to experiment with the latest open-source LLMs.,Free,Completely Free,No,"LLM,Playground,Models"
-Specialized Dev Tools,AgentGPT,https://agentgpt.reworkd.ai/,"Autonomous AI Agents",Platform for creating and deploying autonomous AI agents.,Freemium,Basic free plan,No,"Agents,Automation"
-Specialized Dev Tools,Continue,https://continue.dev/,"LLM",Open-source IDE extension for AI code assistance.,Free,Completely Free,Yes,"IDE,Copilot,Open Source"
-Specialized Dev Tools,DeepCode AI (Snyk),https://snyk.io/platform/deepcode-ai/,"Symbolic & Generative AI",Real-time code security scanning and automated fixes.,Freemium,Powerful free plan,No,"Security,Code Scan"
-Specialized Dev Tools,Apidog,https://apidog.com/,"NLP",All-in-one platform for API design testing and documentation.,Freemium,Powerful free plan,No,"API,Testing,Docs"
-Specialized Dev Tools,GPT Engineer,https://github.com/AntonOsika/gpt-engineer,"LLM",Generates entire codebases from a text prompt.,Free,Completely Free,Yes,"Code Generation,Agents,Open Source"
-Specialized Dev Tools,Vercel AI SDK,https://sdk.vercel.ai/,"AI Development Kit",Open-source library for building AI-powered user interfaces.,Free,Completely Free,Yes,"SDK,UI,Framework,Open Source"
-Specialized Dev Tools,llama.cpp,https://github.com/ggerganov/llama.cpp,"LLM Inference",High-performance inference of Llama models in C/C++.,Free,Completely Free,Yes,"LLM,Local,Performance,Open Source"
-Specialized Dev Tools,automatic1111,https://github.com/AUTOMATIC1111/stable-diffusion-webui,"Diffusion Model UI",The most popular Web UI for Stable Diffusion.,Free,Completely Free,Yes,"Stable Diffusion,UI,Image,Open Source"
+Category,Tool Name,Direct URL,Core AI Technology,Primary Use Case,Pricing Model,Free Quota Summary,Open Source,Tags,Last Updated
+Content Creation,ChatGPT,https://chat.openai.com/,"LLM, Diffusion Models",Text generation assistance and image generation.,Freemium,Daily usage limits on GPT-3.5,No,"LLM,Image,Writing",2025-09-18
+Content Creation,DeepL,https://www.deepl.com/,"NLP, Translation",High-quality text and document translation.,Freemium,Limited character & file translations,No,"Translation,Writing",2025-09-18
+Content Creation,Ideogram,https://ideogram.ai/,"Diffusion Models",Generates images with coherent text typography.,Freemium,~25 images per day,No,"Image,Typography",2025-09-18
+Content Creation,Adobe Firefly,https://www.adobe.com/sensei/generative-ai/firefly.html,"Diffusion Models",Generative AI for creative image and text effects.,Freemium,25 generative credits per month,No,"Image,Design",2025-09-18
+Content Creation,HIX.AI,https://hix.ai/,"LLM, RAG, NLP",AI writer for articles ad copy and emails with SEO templates.,Freemium,3000 words per week,No,"Writing,SEO,Image",2025-09-18
+Content Creation,Copy.ai,https://www.copy.ai/,"LLM, NLP",Generates marketing copy and content ideas.,Freemium,2000 words per month,No,"Writing,Marketing",2025-09-18
+Content Creation,Rytr,https://rytr.me/,"LLM (GPT-3)",AI writing assistant for short-form content.,Freemium,10,000 characters per month,No,"Writing,Paraphrasing",2025-09-18
+Content Creation,Writesonic,https://writesonic.com/,"LLM, RAG",AI writer copywriter and paraphrasing tool.,Freemium,10,000 words per month,No,"Writing,SEO,Image",2025-09-18
+Content Creation,Descript,https://www.descript.com/,"Speech-to-Text, TTS",Edit audio and video by editing the text transcript.,Freemium,1 hour of transcription per month,No,"Video,Audio,Editing",2025-09-18
+Content Creation,Pictory,https://pictory.ai/,"Computer Vision, NLP",Creates videos from scripts or articles automatically.,Freemium,3 videos (with watermark),No,"Video,Text-to-Video",2025-09-18
+Content Creation,QuillBot,https://quillbot.com/,"NLP, LLM",Paraphrasing summarizing and grammar checking tool.,Freemium,125 words in paraphraser,No,"Writing,Paraphrasing",2025-09-18
+Content Creation,Notion AI,https://www.notion.so/product/ai,"LLM, RAG",AI assistant integrated within the Notion productivity app.,Freemium,Limited number of AI responses,No,"Productivity,Writing",2025-09-18
+Content Creation,ClickUp AI,https://clickup.com/ai,"LLM, NLP, RAG",AI assistant for project management summaries and content.,Freemium,100 uses,No,"Productivity,Writing",2025-09-18
+Content Creation,Araby.ai,https://www.araby.ai/,"LLM, TTS, CV, NLP",Comprehensive Arabic platform for writing images and video.,Freemium,Limited free plan,No,"Writing,Arabic,SEO",2025-09-18
+Content Creation,HeyGen,https://www.heygen.com/,"Generative Avatars",Creates videos with realistic AI avatars from text.,Freemium,1 free minute of video,No,"Video,Avatar",2025-09-18
+Content Creation,Kapwing,https://www.kapwing.com/,"Computer Vision, NLP",Online video editor with AI-powered tools.,Freemium,Exports with watermark,No,"Video,Editing",2025-09-18
+Content Creation,Lex.page,https://lex.page/,"LLM",Simple intelligent text editor for writers.,Freemium,Basic free plan,No,"Writing,AI-Writer",2025-09-18
+Content Creation,Looka,https://looka.com/,"Generative AI",Designs logos and full brand identities.,Freemium,Free to design (paid to download),No,"Design,Logo",2025-09-18
+Content Creation,Phind,https://www.phind.com/,"RAG, LLM",AI search engine for developers.,Freemium,Basic free plan,No,"Code,Search",2025-09-18
+Content Creation,Snyk,https://snyk.io/,"ML, Code Analysis",Scans code for security vulnerabilities.,Freemium,Free plan for individuals & open source,No,"Security,Code",2025-09-18
+Education,Course Hero,https://www.coursehero.com/,"LLM, RAG",Homework help and study resources.,Freemium,Unlock content via contributions,No,"Study,RAG",2025-09-18
+Education,Gradescope,https://www.gradescope.com/,"ML, OCR",Automated grading for exams and assignments.,Freemium,Free for individuals & instructors,No,"Grading,OCR",2025-09-18
+Education,TurboLearn,https://www.turbolean.ai/,"LLM",Creates summaries & flashcards from lectures.,Freemium,Basic free plan,No,"Summarizer,Study",2025-09-18
+Education,Socratic by Google,https://socratic.org/,"LLM, NLP, OCR",Homework helper that explains concepts via photos.,Free,Completely Free,No,"Homework,OCR,Math",2025-09-18
+Education,MathGPTPro,https://www.mathgptpro.com/,"LLM, OCR",Instant math problem solver with step-by-step explanations.,Free,Completely Free,No,"Math,Solver,OCR",2025-09-18
+Education,Read Along by Google,https://readalong.google.com/,"Speech-to-Text",Helps children learn to read aloud with real-time feedback.,Free,Completely Free,No,"Reading,Kids,STT",2025-09-18
+Education,Grammarly,https://www.grammarly.com/,"NLP",Writing assistant for grammar and style.,Freemium,Powerful free plan for basics,No,"Writing,Grammar",2025-09-18
+Education,Quizlet,https://quizlet.com/,"ML, LLM",Study tools and flashcards with AI assistance.,Freemium,Most creation tools are free,No,"Study,Flashcards",2025-09-18
+Education,Elicit.org,https://elicit.org/,"LLM, RAG",AI research assistant for academic papers.,Freemium,One-time free credits,No,"Research,RAG,Academic",2025-09-18
+Education,Scispace,https://typeset.io/,"LLM, RAG",Platform for reading and understanding research papers.,Freemium,Basic free plan,No,"Research,PDF,Academic",2025-09-18
+Education,Cognii,https://www.cognii.com/,"NLP, LLM",Assesses open-ended student answers to improve writing.,Freemium,Free individual services,No,"Writing,Assessment",2025-09-18
+Education,Century Tech,https://www.century.tech/,"LLM, ML",Adaptive learning platform with personalized paths.,Freemium,Extensive free resources,No,"Adaptive Learning,Education",2025-09-18
+Education,Carnegie Learning,https://www.carnegielearning.com/,"AI Tutoring, ML",AI tutoring with a focus on math and computer science.,Freemium,Free versions for students/teachers,No,"Math,Tutoring",2025-09-18
+Education,TTSMaker,https://ttsmaker.com/,"Text-to-Speech",Converts written text into high-quality audio.,Free,Completely Free,No,"TTS,Audio",2025-09-18
+Education,Wolfram Alpha,https://www.wolframalpha.com/,"Computational Intelligence",Computational engine for math and science questions.,Freemium,Basic free plan (answers only),No,"Math,Science,Computation",2025-09-18
+Education,Zotero,https://www.zotero.org/,"NLP, ML",Manages and cites academic references automatically.,Free,Completely Free,Yes,"Research,Citation,Open Source",2025-09-18
+Education,Semantic Scholar,https://www.semanticscholar.org/,"NLP, RAG",AI-powered search engine for scientific literature.,Free,Completely Free,No,"Research,Academic",2025-09-18
+Education,Google Dataset Search,https://datasetsearch.research.google.com/,"Search",Search engine for datasets hosted across the web.,Free,Completely Free,No,"Data,Research",2025-09-18
+Image & Video,RunwayML,https://runwayml.com/,"Diffusion Models, CV",AI video editing generation and image-to-video.,Freemium,125 credits (one-time),No,"Video,Image,Gen-AI",2025-09-18
+Image & Video,Luma AI (Dream Machine),https://lumalabs.ai/dream-machine,"Diffusion Models, CV",High-quality cinematic video generation from text/images.,Freemium,30 free videos per month,No,"Video,Gen-AI,3D",2025-09-18
+Image & Video,Pika Labs,https://pika.art/,"Diffusion Models, GAN",Generates short video clips from text or images.,Freemium,Initial free credits,No,"Video,Gen-AI",2025-09-18
+Image & Video,Stable Video Diffusion,https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt,"Diffusion Models",Generates short video clips from a source image.,Free,Completely Free,Yes,"Video,Gen-AI,Open Source",2025-09-18
+Image & Video,Maestra,https://maestra.ai/ar/video-translator,"TTS, ASR, NLP",Automatically translates and dubs videos into 125+ languages.,Freemium,15 minutes of free transcription,No,"Video,Translation,Dubbing",2025-09-18
+Image & Video,Zeemo AI,https://zeemo.ai/ar/tools/video-translator,"ASR, NLP, CV",Transcribes and translates videos with editable subtitles.,Freemium,5 free minutes per month,No,"Video,Subtitles,Translation",2025-09-18
+Image & Video,NoteGPT,https://notegpt.io/youtube-video-summarizer,"LLM, ASR",Summarizes long YouTube videos without registration.,Free,Completely Free,No,"Video,Summarizer,YouTube",2025-09-18
+Image & Video,Remove.bg,https://www.remove.bg/,"Computer Vision",Automatically removes backgrounds from images.,Freemium,1 free HD download 50 previews/month,No,"Image,Editing,Background Removal",2025-09-18
+Image & Video,Krea.ai,https://www.krea.ai/,"Diffusion Models",Real-time interactive image generation and enhancement.,Freemium,Limited daily usage,No,"Image,Real-time,Gen-AI",2025-09-18
+Image & Video,Playground AI,https://playground.com/,"Diffusion Models",User-friendly platform for generating images with Stable Diffusion.,Freemium,500 free images per day,No,"Image,Gen-AI",2025-09-18
+Image & Video,Vidnoz AI,https://www.vidnoz.com/ai-photo-analyzer.html,"CV, LLM",Analyzes images and describes their content.,Free,Completely Free,No,"Image,Analysis",2025-09-18
+Image & Video,ScreenApp,https://screenapp.io/,"CV, NLP, LLM, ASR",Screen recorder that automatically transcribes and summarizes videos.,Freemium,10 free videos,No,"Video,Summarizer,Screen Recorder",2025-09-18
+Image & Video,AKOOL,https://akool.com/ar/ai-tools/ai-video-translator,"LLM, TTS, CV",Translates videos dubs audio and performs face swapping.,Freemium,50 free credits,No,"Video,Translation,Face Swap",2025-09-18
+Image & Video,Decopy,https://decopy.ai/youtube-video-summarizer/,"LLM, CV, ASR",Extracts summaries key points and mind maps from YouTube.,Free,Completely Free,No,"Video,Summarizer,YouTube",2025-09-18
+Image & Video,DALL-E 3,https://openai.com/dall-e-3,"Diffusion Models, LLM",Image generation from text integrated with Bing.,Freemium,15 credits via Bing Image Creator,No,"Image,Gen-AI",2025-09-18
+Image & Video,Midjourney,https://www.midjourney.com/,"GANs, Diffusion Models",High-quality artistic image generation via Discord.,Freemium,Very limited free trial,No,"Image,Gen-AI,Art",2025-09-18
+Image & Video,Artbreeder,https://www.artbreeder.com/,"GANs, Deep Learning",Blends images to create new unique artwork and characters.,Freemium,10 credits per month,No,"Image,Art,GAN",2025-09-18
+Image & Video,Canva AI,https://www.canva.com/features/ai-image-generator/,"Diffusion Models, LLM",AI image and design generation within the Canva platform.,Freemium,50 lifetime credits,No,"Image,Design",2025-09-18
+Image & Video,PhotoRoom,https://www.photoroom.com/,"Computer Vision",Edits product and portrait photos removes backgrounds.,Freemium,Exports with watermark,No,"Image,Editing",2025-09-18
+Image & Video,Luma AI (Genie),https://lumalabs.ai/genie,"Text-to-3D Models",Generates 3D models from text prompts.,Freemium,10 free generations per month,No,"3D,Text-to-3D",2025-09-18
+Image & Video,Meshy.ai,https://www.meshy.ai/,"Text-to-3D, Image-to-3D",Converts text and 2D images into 3D assets.,Freemium,100 free credits per month,No,"3D,Text-to-3D",2025-09-18
+Automation & Integration,n8n,https://n8n.io/,"Workflow Automation",Connects apps and automates complex workflows.,Freemium,2500 executions/month (Cloud),Yes,"Automation,Workflow,Open Source",2025-09-18
+Automation & Integration,ChatNode,https://chatnode.ai/,"LLM, RAG",Builds AI chatbots trained on your own data (e.g., Notion).,Freemium,20 messages per month,No,"Chatbot,RAG,Notion",2025-09-18
+Automation & Integration,Zapier,https://zapier.com/,"Workflow Automation",Connects over 5,000 apps to automate repetitive tasks.,Freemium,100 tasks per month,No,"Automation,Workflow",2025-09-18
+Automation & Integration,Make,https://make.com/,"Visual Automation",Visual workflow automation to connect apps and services.,Freemium,1,000 operations per month,No,"Automation,Workflow,Visual",2025-09-18
+Automation & Integration,Roboflow,https://roboflow.com/,"Computer Vision, MLOps",Platform to build and deploy computer vision models.,Freemium,1,000 free source images,No,"Computer Vision,MLOps",2025-09-18
+Automation & Integration,UiPath,https://www.uipath.com/,"RPA",Robotic Process Automation (RPA) for enterprise tasks.,Freemium,Free Community Edition,No,"RPA,Automation",2025-09-18
+Automation & Integration,Workativ,https://workativ.com/,"AI Chatbots, RPA",Builds and automates AI chatbots for workplace support.,Freemium,2 bots / 100 conversations/month,No,"Chatbot,Automation",2025-09-18
+Automation & Integration,Lumeo,https://lumeo.com/,"Computer Vision",No-code platform for video and vision AI analytics.,Freemium,Free "Starter" plan,No,"Computer Vision,Video Analytics",2025-09-18
+Automation & Integration,H2O.ai,https://h2o.ai/,"Machine Learning, AutoML",Open-source platform for enterprise machine learning.,Free,Completely Free,Yes,"AutoML,ML,Open Source",2025-09-18
+Automation & Integration,LlamaIndex,https://www.llamaindex.ai/,"RAG, LLM Toolkits",Framework for connecting LLMs with your private data.,Free,Library is free,Yes,"RAG,LLM,Framework,Open Source",2025-09-18
+Automation & Integration,LangChain,https://www.langchain.com/,"LLM Orchestration, RAG",Framework for developing applications powered by LLMs.,Free,Library is free,Yes,"RAG,LLM,Framework,Open Source",2025-09-18
+Mental Health Support,Woebot,https://woebothealth.com/,"NLP, LLM, CBT",CBT-based mental health chatbot.,Freemium,Basic usage is free,No,"Chatbot,CBT,Mental Health",2025-09-18
+Mental Health Support,Zafu AI,https://zafu.ai/,"LLM",Meditative and calming dialogue chatbot.,Free,Completely Free,No,"Chatbot,Meditation",2025-09-18
+Mental Health Support,Abby,https://abby.gg/ar,"LLM, NLP, ML",Personalized emotional support and CBT exercises.,Freemium,Powerful free plan,No,"Chatbot,CBT,Multilingual",2025-09-18
+Mental Health Support,Character.AI,https://character.ai/,"LLM",Chat with AI characters for role-playing and support.,Freemium,Basic usage is free,No,"Chatbot,Role-playing",2025-09-18
+Mental Health Support,Poe by Quora,https://poe.com/,"Multi-LLM Chat",Chat with multiple AIs (ChatGPT, Claude) in one app.,Freemium,Limited daily usage,No,"Chatbot,Multi-LLM",2025-09-18
+Mental Health Support,Replika,https://replika.ai/,"LLM, NLP, ML",AI companion chatbot for emotional support.,Freemium,Basic usage is free,No,"Chatbot,Companion",2025-09-18
+Mental Health Support,AI Therapist Free,https://aitherapy.care/,"LLM",Quick emotional support chatbot.,Free,Completely Free,Yes,"Chatbot,Open Source",2025-09-18
+Mental Health Support,Platform Therapy AI,https://ai-therapy.org/,"LLM",Guided therapy sessions with smart questions.,Freemium,Basic assessments are free,No,"CBT,Guided Therapy",2025-09-18
+Mental Health Support,PsyHelp AI,https://psyhelp.ai/,"LLM, RAG, NLP",Analytical psychological support and mood tracking.,Freemium,Basic free plan,No,"Analysis,Mood Tracking",2025-09-18
+Mental Health Support,Huggy AI,https://huggy.io/,"NLP, LLM",Friendly emotional support chat to promote positive thinking.,Freemium,Basic free plan,No,"Chatbot,Positive Thinking",2025-09-18
+Mental Health Support,Mindheal AI GPT,https://yechat.ai/ar/gpts-2otOJRtsNk-Mindheal,"LLM, RAG",In-depth psychological and neuroscientific education.,Free,Free (with usage limits),No,"Research,Academic",2025-09-18
+Mental Health Support,AI PSY HELP,https://chat.psyhelp.info/,"LLM, RAG",Real-time psychological support sessions and mood analysis.,Freemium,Limited free usage,No,"Mood Analysis,Testing",2025-09-18
+Computing & Info,GitHub Copilot,https://github.com/features/copilot,"LLM (Codex)",AI pair programmer that suggests code in your IDE.,Freemium,Free for students & OSS maintainers,No,"Code,IDE,Assistant",2025-09-18
+Computing & Info,Replit,https://replit.com/,"LLM, NLP",Cloud-based IDE for coding hosting and building apps.,Freemium,Basic free plan,No,"Code,Cloud IDE,Hosting",2025-09-18
+Computing & Info,Cursor AI,https://www.cursor.so/,"LLM (GPT-4/Claude)",AI-native code editor for large projects.,Freemium,Basic free plan,No,"Code,IDE,AI-Native",2025-09-18
+Computing & Info,Codeium,https://codeium.com/,"LLM",Free AI code completion and chat assistant.,Free,Completely Free for individuals,No,"Code,Assistant",2025-09-18
+Computing & Info,Tabnine,https://www.tabnine.com/,"LLM",AI assistant for code completion.,Freemium,Basic free plan,No,"Code,Assistant",2025-09-18
+Computing & Info,Amazon CodeWhisperer,https://aws.amazon.com/codewhisperer/,"LLM",AI coding companion that also scans for vulnerabilities.,Free,Completely Free for individual use,No,"Code,Security,Assistant",2025-09-18
+Computing & Info,Symbolab,https://www.symbolab.com/,"LLM, Computer Vision",Solves complex math problems with steps.,Freemium,Solutions (without detailed steps),No,"Math,Solver,Education",2025-09-18
+Computing & Info,Photomath,https://photomath.com/,"Computer Vision, LLM",Solves math problems using your phone's camera.,Freemium,Solutions (with basic steps),No,"Math,Solver,OCR",2025-09-18
+Computing & Info,Microsoft Math Solver,https://mathsolver.microsoft.com/,"LLM, Computer Vision",Solves math problems from images text or handwriting.,Free,Completely Free,No,"Math,Solver,OCR",2025-09-18
+Computing & Info,Desmos Calculator,https://www.desmos.com/,"Classic ML, Graphing",Advanced graphing calculator for functions and data.,Free,Completely Free,No,"Math,Graphing,Education",2025-09-18
+Computing & Info,VS IntelliCode,https://visualstudio.microsoft.com/services/intellicode/,"Machine Learning",AI-assisted code suggestions in Visual Studio.,Free,Completely Free,No,"Code,Assistant,IDE",2025-09-18
+Computing & Info,BLACKBOX AI,https://www.useblackbox.io/,"LLM",AI code generation from questions.,Freemium,Basic free plan,No,"Code,Search",2025-09-18
+Computing & Info,AskCodi,https://www.askcodi.com/,"LLM",AI code and query generation.,Freemium,Basic free plan,No,"Code,Generator",2025-09-18
+Computing & Info,Bloop AI,https://bloop.ai/,"LLM, RAG",Semantic code search for repositories.,Freemium,Basic free plan,No,"Code,Search,RAG",2025-09-18
+Computing & Info,Haystack,https://haystack.deepset.ai/,"RAG, LLM, NLP",Framework for building production-ready NLP systems.,Free,Completely Free,Yes,"RAG,Framework,Open Source",2025-09-18
+Computing & Info,Label Studio,https://labelstud.io/,"Computer Vision, ML",Data labeling platform for images text audio and video.,Free,Completely Free,Yes,"CV,Data Labeling,Open Source",2025-09-18
+Computing & Info,MonkeyLearn,https://monkeylearn.com/,"NLP, ML",No-code text analysis for sentiment keywords etc.,Freemium,300 queries per month,No,"NLP,Text Analysis,No-Code",2025-09-18
+Computing & Info,Amazon Comprehend,https://aws.amazon.com/comprehend,"NLP, ML",NLP service for text analysis and entity extraction.,Freemium,12-month free tier,No,"NLP,Text Analysis",2025-09-18
+Computing & Info,Auto-sklearn,https://github.com/automl/auto-sklearn,"AutoML",Automated machine learning toolkit.,Free,Completely Free,Yes,"AutoML,ML,Open Source",2025-09-18
+Computing & Info,TPOT,https://github.com/EpistasisLab/tpot,"AutoML",AutoML tool that optimizes ML pipelines using genetic programming.,Free,Completely Free,Yes,"AutoML,Genetic Programming,Open Source",2025-09-18
+Computing & Info,PyCaret,https://github.com/pycaret/pycaret,"AutoML",Low-code AutoML library in Python.,Free,Completely Free,Yes,"AutoML,Low-Code,Open Source",2025-09-18
+Computing & Info,AutoGluon,https://github.com/autogluon/autogluon,"Deep Learning, AutoML",AutoML for deep learning on image text and tabular data.,Free,Completely Free,Yes,"AutoML,Deep Learning,Open Source",2025-09-18
+Computing & Info,MLflow,https://mlflow.org/,"MLOps",Platform to manage the ML lifecycle.,Free,Completely Free,Yes,"MLOps,Tracking,Open Source",2025-09-18
+Engineering,ClickUp,https://clickup.com/,"NLP, ML",Project management for engineering teams.,Freemium,Free Forever plan for personal use,No,"Productivity,Project Management",2025-09-18
+Engineering,Guru,https://www.getguru.com/,"RAG, LLM",Centralized knowledge management for engineering docs.,Freemium,Free for teams up to 3 users,No,"Knowledge Management,RAG",2025-09-18
+Engineering,Otter.ai,https://otter.ai/,"Speech Recognition, NLP",Transcribes engineering meetings and lectures.,Freemium,300 transcription minutes/month,No,"Transcription,Meetings",2025-09-18
+Engineering,Optic,https://www.useoptic.com/,"Computer Vision, NLP",Automatically reviews and documents APIs.,Freemium,Basic free plan,No,"API,Development",2025-09-18
+Engineering,Eraser.io,https://eraser.io/,"LLM, Diagram Generation",AI-powered diagramming and whiteboarding for engineers.,Freemium,Basic free plan,No,"Diagrams,Whiteboard",2025-09-18
+Health,Ada,https://ada.com/,"LLM, NLP",Symptom assessment platform.,Freemium,Basic usage is free,No,"Symptom Checker,Health",2025-09-18
+Health,Abridge,https://abridge.com/,"Speech Recognition, NLP, LLM",Transcribes doctor-patient conversations into medical notes.,Freemium,Free plan for personal use,No,"Transcription,Medical,Health",2025-09-18
+Health,Butterfly iQ+,https://www.butterflynetwork.com/,"Computer Vision, AI-Imaging",Portable AI-powered ultrasound device.,Freemium,Basic software is free (device is paid),No,"Medical Imaging,Ultrasound,Hardware",2025-09-18
+Health,PathAI,https://www.pathai.com/,"Computer Vision, Deep Learning",AI-powered pathology analysis to assist in cancer detection.,Freemium,Available for research & trials,No,"Medical Imaging,Diagnostics,Pathology",2025-09-18
+Health,Aidoc,https://www.aidoc.com/,"Computer Vision, Deep Learning",Analyzes medical images to detect critical conditions.,Freemium,Available for limited trials,No,"Medical Imaging,Radiology,Diagnostics",2025-09-18
+Health,Tempus,https://www.tempus.com/,"ML, Genomic Analysis",Analyzes clinical and molecular data for personalized treatment.,Freemium,Basic analyses are free,No,"Genomics,Oncology,Precision Medicine",2025-09-18
+Health,Caption Health,https://www.captionhealth.com/,"Computer Vision, AI-Guidance",AI guidance for acquiring diagnostic-quality ultrasound images.,Freemium,Basic free plan,No,"Medical Imaging,Ultrasound,Guidance",2025-09-18
+Health,DeepMind Health,https://deepmind.google/health/,"Deep Learning, Computer Vision",Develops AI models for early disease detection.,Free,Available for research & collaboration,No,"Research,Diagnostics",2025-09-18
+Foundational & Tech,Google Colab,https://colab.research.google.com/,"ML, LLM APIs",Cloud-based Jupyter notebooks with free GPU/TPU access.,Freemium,Limited free GPU/TPU access,No,"Notebook,ML,GPU",2025-09-18
+Foundational & Tech,Hugging Face,https://huggingface.co/,"LLM, NLP, Diffusion Models",Platform for hosting and using pre-trained models.,Freemium,Free model hosting and usage,Yes,"Models,Hosting,Community,Open Source",2025-09-18
+Foundational & Tech,OpenAI API,https://platform.openai.com/playground,"LLM (GPT series)",Programmatic access to GPT models.,Freemium,Initial free credits,No,"API,LLM",2025-09-18
+Foundational & Tech,TensorFlow,https://www.tensorflow.org/,"ML, Deep Learning",Open-source framework for machine learning.,Free,Completely Free,Yes,"Framework,ML,Deep Learning,Open Source",2025-09-18
+Foundational & Tech,PyTorch,https://pytorch.org/,"ML, Deep Learning",Open-source framework for deep learning.,Free,Completely Free,Yes,"Framework,ML,Deep Learning,Open Source",2025-09-18
+Foundational & Tech,Lobe.ai,https://www.lobe.ai/,"Computer Vision",No-code image classification model training.,Free,Completely Free,No,"CV,No-Code,Image Classification",2025-09-18
+Foundational & Tech,Gradio,https://www.gradio.app/,"UI Builder for AI",Python library to build web demos for ML models.,Free,Completely Free,Yes,"UI,Demo,Open Source",2025-09-18
+Foundational & Tech,ElevenLabs,https://elevenlabs.io/,"Text-to-Speech (TTS)",Ultra-realistic text-to-speech and voice cloning.,Freemium,10,000 characters per month,No,"TTS,Voice Cloning,Audio",2025-09-18
+Religious,Moslem Bot,https://moslembot.com/,"LLM, NLP, RAG",AI search tools for Quran and Hadith.,Freemium,Basic free plan,No,"Chatbot,Islamic,Quran,Hadith",2025-09-18
+Religious,Deen.ai,https://deen.ai/,"RAG, LLM, Speech Recognition",AI feedback on Quran recitation and answers to Islamic questions.,Freemium,Basic free plan,No,"Recitation,Quran,Fatwa",2025-09-18
+Religious,KajiBuku,https://moslembot.com/,"RAG, LLM",Chat with Islamic books or your own uploaded PDFs.,Free,Completely Free,No,"Chatbot,PDF,Islamic",2025-09-18
+Religious,KajiWeb,https://moslembot.com/,"NLP, RAG",Analyzes and summarizes Islamic websites.,Free,Completely Free,No,"Summarizer,Web,Islamic",2025-09-18
+Audio & Music,Suno AI,https://www.suno.ai/,"Music Generation",Generates full songs (lyrics music vocals) from text.,Freemium,50 free credits per day,No,"Music,Generative,Song",2025-09-18
+Audio & Music,Udio,https://www.udio.com/,"Music Generation",Generates high-quality music tracks and songs.,Freemium,1200 songs/month (beta),No,"Music,Generative,Song",2025-09-18
+Audio & Music,Mubert,https://mubert.com/,"Generative Music AI",Generates royalty-free soundtracks for videos and podcasts.,Freemium,Generation with audio watermark,No,"Music,Royalty-Free,Soundtrack",2025-09-18
+Audio & Music,Natural Readers,https://www.naturalreaders.com/,"Text-to-Speech",Converts text into high-quality audio.,Freemium,20 mins/day (premium voices),No,"TTS,Audio",2025-09-18
+Presentations & Diagrams,Gamma.app,https://gamma.app/,"LLM, Generative AI",Creates presentations and documents from a single text prompt.,Freemium,400 initial credits,No,"Presentation,Gen-AI,Docs",2025-09-18
+Presentations & Diagrams,Tome,https://tome.app/,"LLM, DALL-E",Creates interactive presentations and visual stories.,Freemium,Basic free plan,No,"Presentation,Storytelling",2025-09-18
+Presentations & Diagrams,Eraser.io,https://eraser.io/,"LLM, Diagram Generation",Generates engineering diagrams and flowcharts from text.,Freemium,Basic free plan,No,"Diagrams,Whiteboard,Engineering",2025-09-18
+Presentations & Diagrams,Figma,https://www.figma.com/,"Various (Plugins)",Collaborative design tool with various AI plugins.,Freemium,Free starter plan,No,"Design,UI/UX,Plugins",2025-09-18
+Specialized Dev Tools,Ollama,https://ollama.com/,"LLM Runner",Easily run large language models locally on your machine.,Free,Completely Free,Yes,"LLM,Local,CLI,Open Source",2025-09-18
+Specialized Dev Tools,Jan.ai,https://jan.ai/,"Local AI Client",Desktop client to run and manage local AI models.,Free,Completely Free,Yes,"LLM,Local,Desktop,Open Source",2025-09-18
+Specialized Dev Tools,CodeRabbit,https://coderabbit.ai/,"LLM for Code Review",Automated code review on your GitHub pull requests.,Freemium,Free for open source & individuals,No,"Code Review,Automation",2025-09-18
+Specialized Dev Tools,Civitai,https://civitai.com/,"Diffusion Model Hub",Hub for sharing and discovering fine-tuned Stable Diffusion models.,Free,Completely Free,No,"Models,Community,Stable Diffusion",2025-09-18
+Specialized Dev Tools,Replicate,https://replicate.com/,"Model Hosting",Run open-source AI models via a simple API.,Freemium,Free initial credits for trial,No,"API,Hosting,Models",2025-09-18
+Specialized Dev Tools,Perplexity Labs,https://labs.perplexity.ai/,"LLM Playground",Playground to experiment with the latest open-source LLMs.,Free,Completely Free,No,"LLM,Playground,Models",2025-09-18
+Specialized Dev Tools,AgentGPT,https://agentgpt.reworkd.ai/,"Autonomous AI Agents",Platform for creating and deploying autonomous AI agents.,Freemium,Basic free plan,No,"Agents,Automation",2025-09-18
+Specialized Dev Tools,Continue,https://continue.dev/,"LLM",Open-source IDE extension for AI code assistance.,Free,Completely Free,Yes,"IDE,Copilot,Open Source",2025-09-18
+Specialized Dev Tools,DeepCode AI (Snyk),https://snyk.io/platform/deepcode-ai/,"Symbolic & Generative AI",Real-time code security scanning and automated fixes.,Freemium,Powerful free plan,No,"Security,Code Scan",2025-09-18
+Specialized Dev Tools,Apidog,https://apidog.com/,"NLP",All-in-one platform for API design testing and documentation.,Freemium,Powerful free plan,No,"API,Testing,Docs",2025-09-18
+Specialized Dev Tools,GPT Engineer,https://github.com/AntonOsika/gpt-engineer,"LLM",Generates entire codebases from a text prompt.,Free,Completely Free,Yes,"Code Generation,Agents,Open Source",2025-09-18
+Specialized Dev Tools,Vercel AI SDK,https://sdk.vercel.ai/,"AI Development Kit",Open-source library for building AI-powered user interfaces.,Free,Completely Free,Yes,"SDK,UI,Framework,Open Source",2025-09-18
+Specialized Dev Tools,llama.cpp,https://github.com/ggerganov/llama.cpp,"LLM Inference",High-performance inference of Llama models in C/C++.,Free,Completely Free,Yes,"LLM,Local,Performance,Open Source",2025-09-18
+Specialized Dev Tools,automatic1111,https://github.com/AUTOMATIC1111/stable-diffusion-webui,"Diffusion Model UI",The most popular Web UI for Stable Diffusion.,Free,Completely Free,Yes,"Stable Diffusion,UI,Image,Open Source",2025-09-18
