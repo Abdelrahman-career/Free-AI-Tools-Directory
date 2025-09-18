@@ -293,7 +293,21 @@ Welcome to the comprehensive, open-source directory of the best free and freemiu
 
 [⬆️ Back to Top](#-table-of-contents)
 
+
+
 ---
+
+### 🧠 Strategic Analysis & Recommendations
+
+Want a deeper dive? We've analyzed the entire dataset to bring you strategic insights and tool comparisons.
+
+-   ➡️ **[Best in Class by Category](./docs/best_in_class.md)**
+-   ➡️ **[Tool Showdowns: Which is Right for You?](./docs/tool_showdowns.md)**
+-   ➡️ **[Foundation Model Showdown: A Deep Dive](./docs/model_comparison.md)**
+
+---
+---
+
 
 ## 🤝 How to Contribute
 
